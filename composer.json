@@ -7,7 +7,7 @@
     "class",
     "secure"
   ],
-  "version": "1.3.0",
+  "version": "rouaks as 1.3.0",
   "homepage": "http://phpauth.github.io/PHPAuth/",
   "license": "MIT",
   "require": {
