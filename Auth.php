@@ -151,6 +151,7 @@ class Auth
         if ($user['isactive'] != 1) {
             $this->addAttempt();
             $return['message'] = $this->__lang("account_inactive");
+            $return['code'] = 2;
 
             return $return;
         }
